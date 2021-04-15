@@ -1,0 +1,9 @@
+{
+  "name": "ovh-object-storage",
+  "version": "0.0.1",
+  "description": "A simple node package written in Typescript for managing the ovh open cloud object storage",
+  "main": "index.js",
+  "repository": "https://github.com/richardhofmaenner/ovh-object-storage",
+  "author": "Richard Hofmänner <hello@terillos.dev>",
+  "license": "MIT"
+}
