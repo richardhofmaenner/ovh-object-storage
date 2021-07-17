@@ -1,8 +1,6 @@
-import {Response, Headers} from "node-fetch";
 import {ConnectionBodyResponse} from "./typings/ConnectionBodyResponse";
 import ErrorResponseBody from "./typings/ErrorResponseBody";
-
-const fetch = require('node-fetch')
+const fetch = require('node-fetch');
 
 export default class Storage {
   readonly OPENSTACK_USER: string
